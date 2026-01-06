@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PrithS24/Leetcode-Practices/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/PrithS24/Leetcode-Practices/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PrithS24/Leetcode-Practices/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/PrithS24/Leetcode-Practices/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -17,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PrithS24/Leetcode-Practices/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/PrithS24/Leetcode-Practices/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
