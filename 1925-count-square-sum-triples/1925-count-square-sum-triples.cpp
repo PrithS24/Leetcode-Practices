@@ -1,17 +1,18 @@
 class Solution {
-    int r;
 public:
     int countTriples(int n) {
-        while (n > 0) {
-            for (int i = 1; i <= n; i++) {
-                for (int j = i + 1; j <= n; j++) {
-                    if (pow(i, 2) + pow(j, 2) == pow(n,2)) {
-                        r += 2;  // Count the valid pair
-                    }
+        int s=0;
+        for(int i=1; i<=n; i++)
+        {
+            for(int j=1; j<=n; j++)
+            {
+                int k= int(sqrt(pow(i,2)+pow(j,2)+1));
+                if(k<=n && pow(k,2)==(pow(i,2)+pow(j,2)))
+                {
+                    s++;
                 }
             }
-            n--;  // Decrease n for the next iteration
         }
-        return r;
+        return s;
     }
 };
