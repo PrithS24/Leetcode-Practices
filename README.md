@@ -93,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrithS24/Leetcode-Practices/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/PrithS24/Leetcode-Practices/tree/master/1925-count-square-sum-triples) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/PrithS24/Leetcode-Practices/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
